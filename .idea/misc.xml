@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/BelajarToDoList/app/src/main/res/layout/activity_create_todo.xml" value="0.1" />
         <entry key="..\:/Users/User/AndroidStudioProjects/BelajarToDoList/app/src/main/res/layout/activity_main.xml" value="0.2" />
-        <entry key="..\:/Users/User/AndroidStudioProjects/BelajarToDoList/app/src/main/res/layout/activity_second.xml" value="0.18" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BelajarToDoList/app/src/main/res/layout/activity_second.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BelajarToDoList/app/src/main/res/layout/activity_update_todo.xml" value="0.25" />
         <entry key="..\:/Users/User/AndroidStudioProjects/BelajarToDoList/app/src/main/res/layout/todo_item.xml" value="0.15213675213675212" />
       </map>
     </option>
