@@ -20,7 +20,7 @@ class SecondActivity : AppCompatActivity() {
 
     lateinit var btnCreateTodo : Button
 
-    val apiKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InVoeHRpb2d0em1pa3plcW13d2hxIiwicm9sZSI6ImFub24iLCJpYXQiOjE2NjU3MTM0MDAsImV4cCI6MTk4MTI4OTQwMH0.G7o5FCBDElyJsgADZ8UlTSPGTlyfG5pBwfqWb0LkrWA"
+    val apiKey = ""
     val token = "Bearer $apiKey"
 
     var Items = ArrayList<Model>()
